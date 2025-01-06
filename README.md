@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @halfkai
-- 👀 I’m interested in web technologies and game🎮🎮 developing
-- 🌱 I’m currently learning C++ / Rust
-- 🔧 I’m mainly working with web developing now...
+- 👀 ..
+- 👷 Working as a web developer..
 - 📫 You can reach me through email <a href="mailto:0x158105@google.com">0x158105@gmail.com</a>
 
 <!---
